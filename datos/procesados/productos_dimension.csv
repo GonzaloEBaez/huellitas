@@ -1,0 +1,201 @@
+﻿id_producto,producto,categoria,subcategoria,marca,costo,precio_lista,proveedor
+P0001,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,15300.0,23900.0,Mundo Mascota
+P0002,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,4500.0,7400.0,Pet Supply BA
+P0003,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,13800.0,25300.0,Mayorista Animalia
+P0004,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,14100.0,26300.0,Veterinaria Central
+P0005,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,13600.0,22300.0,EcoPet Distribuciones
+P0006,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,30200.0,50600.0,NutriPet Sur
+P0007,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,11900.0,19400.0,Accesorios Huella
+P0008,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,31000.0,46000.0,Distribuidora Patitas
+P0009,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,6600.0,9100.0,Mundo Mascota
+P0010,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,3100.0,4600.0,Pet Supply BA
+P0011,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,24100.0,33800.0,Mayorista Animalia
+P0012,"König Premium Gato 7,5 kg",Alimentos,Gato,König,11800.0,22200.0,Veterinaria Central
+P0013,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,,56400.0,EcoPet Distribuciones
+P0014,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,32000.0,46800.0,NutriPet Sur
+P0015,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,24500.0,38800.0,Accesorios Huella
+P0016,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,52700.0,67800.0,Distribuidora Patitas
+P0017,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,23600.0,32400.0,Mundo Mascota
+P0018,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,7200.0,13300.0,Pet Supply BA
+P0019,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,7700.0,12900.0,Mayorista Animalia
+P0020,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,37200.0,48400.0,Veterinaria Central
+P0021,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,28300.0,49700.0,EcoPet Distribuciones
+P0022,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,4500.0,6500.0,NutriPet Sur
+P0023,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,54578.0,53400.0,Accesorios Huella
+P0024,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,11200.0,18300.0,Distribuidora Patitas
+P0025,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21600.0,32700.0,Mundo Mascota
+P0026,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,8000.0,13400.0,Pet Supply BA
+P0027,"König Premium Perro 7,5 kg",Alimentos,Perro,König,11900.0,21500.0,Mayorista Animalia
+P0028,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,23700.0,31900.0,Veterinaria Central
+P0029,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,22400.0,40900.0,EcoPet Distribuciones
+P0030,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,16700.0,21700.0,NutriPet Sur
+P0031,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,20800.0,34700.0,Accesorios Huella
+P0032,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18800.0,29400.0,
+P0033,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,34900.0,49800.0,Mundo Mascota
+P0034,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,32000.0,49600.0,Pet Supply BA
+P0035,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4800.0,8700.0,Mayorista Animalia
+P0036,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,29700.0,48500.0,Veterinaria Central
+P0037,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,31800.0,50200.0,EcoPet Distribuciones
+P0038,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,7700.0,11900.0,NutriPet Sur
+P0039,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,40600.0,65600.0,Accesorios Huella
+P0040,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,11400.0,20500.0,Distribuidora Patitas
+P0041,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,35000.0,48200.0,Mundo Mascota
+P0042,"König Premium Gato 7,5 kg",Alimentos,Gato,König,22200.0,34400.0,Pet Supply BA
+P0043,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,25000.0,38300.0,Mayorista Animalia
+P0044,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,14400.0,18600.0,Veterinaria Central
+P0045,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,39700.0,59100.0,EcoPet Distribuciones
+P0046,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,29500.0,39500.0,NutriPet Sur
+P0047,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,19200.0,36000.0,Accesorios Huella
+P0048,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,37600.0,51200.0,Distribuidora Patitas
+P0049,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,45700.0,63900.0,Mundo Mascota
+P0050,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,26100.0,35000.0,Pet Supply BA
+P0051,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,15500.0,23600.0,Mayorista Animalia
+P0052,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,3100.0,4500.0,Veterinaria Central
+P0053,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,9900.0,17800.0,EcoPet Distribuciones
+P0054,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,16100.0,21900.0,NutriPet Sur
+P0055,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21200.0,35500.0,Accesorios Huella
+P0056,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,41200.0,65500.0,Distribuidora Patitas
+P0057,"König Premium Perro 7,5 kg",Alimentos,Perro,König,15900.0,21400.0,Mundo Mascota
+P0058,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,10100.0,16400.0,Pet Supply BA
+P0059,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,33300.0,44700.0,Mayorista Animalia
+P0060,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,33500.0,58000.0,Veterinaria Central
+P0061,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,26200.0,47400.0,EcoPet Distribuciones
+P0062,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18500.0,28400.0,NutriPet Sur
+P0063,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,9200.0,14100.0,Accesorios Huella
+P0064,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,,33100.0,Distribuidora Patitas
+P0065,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4900.0,6600.0,Mundo Mascota
+P0066,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,50100.0,67600.0,Pet Supply BA
+P0067,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,46000.0,60500.0,Mayorista Animalia
+P0068,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,19900.0,31600.0,Veterinaria Central
+P0069,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,37400.0,64700.0,EcoPet Distribuciones
+P0070,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,34300.0,60400.0,NutriPet Sur
+P0071,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,6200.0,8100.0,Accesorios Huella
+P0072,"König Premium Gato 7,5 kg",Alimentos,Gato,König,3600.0,6100.0,Distribuidora Patitas
+P0073,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,34500.0,58200.0,Mundo Mascota
+P0074,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,21500.0,29100.0,Pet Supply BA
+P0075,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,29900.0,42600.0,Mayorista Animalia
+P0076,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,30600.0,52200.0,Veterinaria Central
+P0077,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,41000.0,60400.0,EcoPet Distribuciones
+P0078,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,40400.0,53800.0,NutriPet Sur
+P0079,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,46326.0,44900.0,Accesorios Huella
+P0080,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,14500.0,24100.0,Distribuidora Patitas
+P0081,Pedigree Tiras Perro 150 g,Snacks,Perro,Pedigree,6300.0,9600.0,Mundo Mascota
+P0082,König Galletas Gato 500 g,Snacks,Gato,König,3100.0,4500.0,Pet Supply BA
+P0083,Excellent Mix entrenamiento Perro 150 g,Snacks,Perro,Excellent,2900.0,4800.0,Mayorista Animalia
+P0084,Balanced Tiras Gato 500 g,Snacks,Gato,Balanced,3300.0,4900.0,Veterinaria Central
+P0085,Catit Galletas Perro 150 g,Snacks,Perro,Catit,1900.0,3400.0,EcoPet Distribuciones
+P0086,Pedigree Mix entrenamiento Gato 500 g,Snacks,Gato,Pedigree,6400.0,9700.0,NutriPet Sur
+P0087,König Tiras Perro 150 g,Snacks,Perro,König,3000.0,4500.0,Accesorios Huella
+P0088,Excellent Galletas Gato 500 g,Snacks,Gato,Excellent,6600.0,10800.0,Distribuidora Patitas
+P0089,Balanced Mix entrenamiento Perro 150 g,Snacks,Perro,Balanced,4100.0,6100.0,Mundo Mascota
+P0090,Catit Tiras Gato 500 g,Snacks,Gato,Catit,5500.0,9600.0,Pet Supply BA
+P0091,Pedigree Galletas Perro 150 g,Snacks,Perro,Pedigree,6100.0,8400.0,Mayorista Animalia
+P0092,König Mix entrenamiento Gato 500 g,Snacks,Gato,König,2000.0,3200.0,Veterinaria Central
+P0093,Excellent Tiras Perro 150 g,Snacks,Perro,Excellent,7100.0,12100.0,EcoPet Distribuciones
+P0094,Balanced Galletas Gato 500 g,Snacks,Gato,Balanced,2100.0,3000.0,NutriPet Sur
+P0095,Catit Mix entrenamiento Perro 150 g,Snacks,Perro,Catit,4500.0,7900.0,Accesorios Huella
+P0096,Pedigree Tiras Gato 500 g,Accesorios,Gato,Pedigree,6700.0,9100.0,Distribuidora Patitas
+P0097,König Galletas Perro 150 g,Snacks,Perro,König,6200.0,9700.0,Mundo Mascota
+P0098,Excellent Mix entrenamiento Gato 500 g,Snacks,Gato,Excellent,3800.0,6900.0,Pet Supply BA
+P0099,Balanced Tiras Perro 150 g,Snacks,Perro,Balanced,3800.0,7000.0,Mayorista Animalia
+P0100,Catit Galletas Gato 500 g,Snacks,Gato,Catit,3600.0,6400.0,Veterinaria Central
+P0101,Pedigree Mix entrenamiento Perro 150 g,Snacks,Perro,Pedigree,3400.0,5100.0,EcoPet Distribuciones
+P0102,König Tiras Gato 500 g,Snacks,Gato,König,2600.0,4600.0,NutriPet Sur
+P0103,Excellent Galletas Perro 150 g,Snacks,Perro,Excellent,1900.0,2700.0,Accesorios Huella
+P0104,Balanced Mix entrenamiento Gato 500 g,Snacks,Gato,Balanced,4600.0,6200.0,Distribuidora Patitas
+P0105,Catit Tiras Perro 150 g,Snacks,Perro,Catit,2500.0,3300.0,Mundo Mascota
+P0106,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,2900.0,4700.0,Pet Supply BA
+P0107,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,5400.0,9600.0,Mayorista Animalia
+P0108,Dogit Shampoo General 2 kg,Higiene,General,Dogit,2100.0,3600.0,Veterinaria Central
+P0109,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,13400.0,17500.0,EcoPet Distribuciones
+P0110,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,12300.0,16000.0,
+P0111,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,2100.0,3700.0,Accesorios Huella
+P0112,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7800.0,13900.0,Distribuidora Patitas
+P0113,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,10200.0,14500.0,Mundo Mascota
+P0114,Purina Shampoo General 4 kg,Higiene,General,Purina,6200.0,8400.0,Pet Supply BA
+P0115,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,11100.0,16600.0,Mayorista Animalia
+P0116,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,2600.0,3700.0,Veterinaria Central
+P0117,Agility Shampoo General 1 l,Higiene,General,Agility,5500.0,8800.0,EcoPet Distribuciones
+P0118,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,8400.0,11300.0,NutriPet Sur
+P0119,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,4700.0,6900.0,Accesorios Huella
+P0120,Kongo Shampoo General 250 ml,Higiene,General,Kongo,,14500.0,Distribuidora Patitas
+P0121,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,8800.0,16400.0,Mundo Mascota
+P0122,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,7900.0,11400.0,Pet Supply BA
+P0123,Dogit Shampoo General 2 kg,Higiene,General,Dogit,12500.0,18800.0,Mayorista Animalia
+P0124,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,3000.0,4000.0,Veterinaria Central
+P0125,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,4200.0,5600.0,EcoPet Distribuciones
+P0126,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,14200.0,21600.0,NutriPet Sur
+P0127,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7400.0,13000.0,Accesorios Huella
+P0128,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,8200.0,13200.0,Distribuidora Patitas
+P0129,Purina Shampoo General 4 kg,Higiene,General,Purina,3900.0,5300.0,Mundo Mascota
+P0130,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,8000.0,10400.0,Pet Supply BA
+P0131,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,8200.0,12700.0,Mayorista Animalia
+P0132,Agility Shampoo General 1 l,Higiene,General,Agility,12200.0,18500.0,Veterinaria Central
+P0133,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,4730.0,3600.0,EcoPet Distribuciones
+P0134,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,3100.0,4100.0,NutriPet Sur
+P0135,Kongo Shampoo General 250 ml,Higiene,General,Kongo,3700.0,4900.0,Accesorios Huella
+P0136,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,40000.0,69300.0,Distribuidora Patitas
+P0137,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,30800.0,46800.0,Mundo Mascota
+P0138,Whiskas Correa General L,Accesorios,General,Whiskas,2900.0,5100.0,Pet Supply BA
+P0139,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,17300.0,31500.0,Mayorista Animalia
+P0140,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,51300.0,67100.0,Veterinaria Central
+P0141,Nutribon Juguete General S,Accesorios,General,Nutribon,34200.0,61500.0,EcoPet Distribuciones
+P0142,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,42700.0,61400.0,NutriPet Sur
+P0143,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,45800.0,84400.0,Accesorios Huella
+P0144,Osspret Correa General XL,Higiene,General,Osspret,27700.0,36900.0,Distribuidora Patitas
+P0145,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,30200.0,57000.0,Mundo Mascota
+P0146,Nutribon Correa Gato S,Accesorios,Gato,Nutribon,24800.0,36800.0,Pet Supply BA
+P0147,Royal Canin Juguete General M,Accesorios,General,Royal Canin,35200.0,52900.0,Mayorista Animalia
+P0148,Whiskas Correa Perro L,Accesorios,Perro,Whiskas,27700.0,41600.0,Veterinaria Central
+P0149,Osspret Juguete Gato XL,Accesorios,Gato,Osspret,38400.0,64200.0,EcoPet Distribuciones
+P0150,Vitalcan Correa General XS,Accesorios,General,Vitalcan,22500.0,35400.0,NutriPet Sur
+P0151,Nutribon Juguete Perro S,Accesorios,Perro,Nutribon,45700.0,82200.0,Accesorios Huella
+P0152,Royal Canin Correa Gato M,Accesorios,Gato,Royal Canin,36500.0,55900.0,Distribuidora Patitas
+P0153,Whiskas Juguete General L,Accesorios,General,Whiskas,24600.0,36300.0,Mundo Mascota
+P0154,Osspret Correa Perro XL,Accesorios,Perro,Osspret,2700.0,5000.0,Pet Supply BA
+P0155,Vitalcan Juguete Gato XS,Accesorios,Gato,Vitalcan,,36600.0,Mayorista Animalia
+P0156,Nutribon Correa General S,Accesorios,General,Nutribon,32500.0,56100.0,Veterinaria Central
+P0157,Royal Canin Juguete Perro M,Accesorios,Perro,Royal Canin,21100.0,33900.0,EcoPet Distribuciones
+P0158,Whiskas Correa Gato L,Accesorios,Gato,Whiskas,49900.0,73000.0,NutriPet Sur
+P0159,Osspret Juguete General XL,Accesorios,General,Osspret,47800.0,62000.0,Accesorios Huella
+P0160,Vitalcan Correa Perro XS,Accesorios,Perro,Vitalcan,33500.0,50500.0,Distribuidora Patitas
+P0161,Nutribon Juguete Gato S,Accesorios,Gato,Nutribon,38700.0,57700.0,Mundo Mascota
+P0162,Royal Canin Correa General M,Accesorios,General,Royal Canin,25400.0,35200.0,Pet Supply BA
+P0163,Whiskas Juguete Perro L,Accesorios,Perro,Whiskas,40600.0,65300.0,Mayorista Animalia
+P0164,Osspret Correa Gato XL,Accesorios,Gato,Osspret,13500.0,17600.0,Veterinaria Central
+P0165,Vitalcan Juguete General XS,Accesorios,General,Vitalcan,46900.0,81000.0,EcoPet Distribuciones
+P0166,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,26400.0,35100.0,NutriPet Sur
+P0167,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,58495.0,56700.0,Accesorios Huella
+P0168,Whiskas Correa General L,Accesorios,General,Whiskas,2200.0,3300.0,Distribuidora Patitas
+P0169,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,34600.0,56200.0,Mundo Mascota
+P0170,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,10200.0,19000.0,Pet Supply BA
+P0171,Nutribon Juguete General S,Accesorios,General,Nutribon,33700.0,51800.0,Mayorista Animalia
+P0172,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,15100.0,19500.0,Veterinaria Central
+P0173,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,13100.0,19800.0,EcoPet Distribuciones
+P0174,Osspret Correa General XL,Accesorios,General,Osspret,41000.0,77000.0,NutriPet Sur
+P0175,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,35800.0,51600.0,Accesorios Huella
+P0176,Nutribon Pipeta Perro Mediano,Salud,Perro,Nutribon,10300.0,13400.0,Distribuidora Patitas
+P0177,Royal Canin Antipulgas Gato Grande,Salud,Gato,Royal Canin,14400.0,20000.0,Mundo Mascota
+P0178,Whiskas Vitaminas Perro 30 u.,Salud,Perro,Whiskas,23100.0,36000.0,Pet Supply BA
+P0179,Osspret Pipeta Gato 60 u.,Salud,Gato,Osspret,19200.0,25100.0,Mayorista Animalia
+P0180,Vitalcan Antipulgas Perro Pequeño,Salud,Perro,Vitalcan,28800.0,37800.0,Veterinaria Central
+P0181,Nutribon Vitaminas Gato Mediano,Salud,Gato,Nutribon,19500.0,30500.0,EcoPet Distribuciones
+P0182,Royal Canin Pipeta Perro Grande,Salud,Perro,Royal Canin,25400.0,36300.0,NutriPet Sur
+P0183,Whiskas Antipulgas Gato 30 u.,Salud,Gato,Whiskas,22000.0,37000.0,
+P0184,Osspret Vitaminas Perro 60 u.,Salud,Perro,Osspret,26100.0,37100.0,Distribuidora Patitas
+P0185,Vitalcan Pipeta Gato Pequeño,Salud,Gato,Vitalcan,14100.0,19600.0,Mundo Mascota
+P0186,Nutribon Antipulgas Perro Mediano,Salud,Perro,Nutribon,5800.0,9500.0,Pet Supply BA
+P0187,Royal Canin Vitaminas Gato Grande,Salud,Gato,Royal Canin,14000.0,21500.0,Mayorista Animalia
+P0188,Whiskas Pipeta Perro 30 u.,Salud,Perro,Whiskas,9300.0,14000.0,Veterinaria Central
+P0189,Osspret Antipulgas Gato 60 u.,Salud,Gato,Osspret,,7100.0,EcoPet Distribuciones
+P0190,Vitalcan Vitaminas Perro Pequeño,Salud,Perro,Vitalcan,8400.0,14700.0,NutriPet Sur
+P0191,Nutribon Pipeta Gato Mediano,Salud,Gato,Nutribon,6700.0,11200.0,Accesorios Huella
+P0192,Royal Canin Antipulgas Perro Grande,Salud,Perro,Royal Canin,16400.0,24700.0,Distribuidora Patitas
+P0193,Whiskas Vitaminas Gato 30 u.,Salud,Gato,Whiskas,20300.0,27900.0,Mundo Mascota
+P0194,Osspret Pipeta Perro 60 u.,Salud,Perro,Osspret,11400.0,20400.0,Pet Supply BA
+P0195,Vitalcan Antipulgas Gato Pequeño,Salud,Gato,Vitalcan,21700.0,29100.0,Mayorista Animalia
+P0196,Nutribon Vitaminas Perro Mediano,Salud,Perro,Nutribon,15400.0,25000.0,Veterinaria Central
+P0197,Royal Canin Pipeta Gato Grande,Salud,Gato,Royal Canin,5600.0,7300.0,EcoPet Distribuciones
+P0198,Whiskas Antipulgas Perro 30 u.,Salud,Perro,Whiskas,6600.0,9400.0,NutriPet Sur
+P0199,Osspret Vitaminas Gato 60 u.,Salud,Gato,Osspret,16100.0,21500.0,Accesorios Huella
+P0200,Vitalcan Pipeta Perro Pequeño,Salud,Perro,Vitalcan,6700.0,12500.0,Distribuidora Patitas

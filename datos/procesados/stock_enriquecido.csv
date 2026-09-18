@@ -1,0 +1,586 @@
+﻿fecha,sucursal,id_producto,stock_actual,stock_minimo,fecha_original,fecha_invalida,fecha_fuera_rango,stock_actual_invalido,stock_minimo_invalido,requiere_revision,motivo_revision,producto_existe,producto,categoria,subcategoria,marca,costo,precio_lista,proveedor
+2026-08-31,Centro,P0001,26,13.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,15300.0,23900.0,Mundo Mascota
+2026-08-31,Centro,P0002,7,7.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,4500.0,7400.0,Pet Supply BA
+2026-08-31,Centro,P0003,3,7.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,13800.0,25300.0,Mayorista Animalia
+2026-08-31,Centro,P0004,11,6.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,14100.0,26300.0,Veterinaria Central
+2026-08-31,Centro,P0005,7,5.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,13600.0,22300.0,EcoPet Distribuciones
+2026-08-31,Centro,P0006,4,4.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,30200.0,50600.0,NutriPet Sur
+2026-08-31,Centro,P0007,15,4.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,11900.0,19400.0,Accesorios Huella
+2026-08-31,Centro,P0008,4,3.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,31000.0,46000.0,Distribuidora Patitas
+2026-08-31,Centro,P0009,7,5.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,6600.0,9100.0,Mundo Mascota
+2026-08-31,Centro,P0010,0,3.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,3100.0,4600.0,Pet Supply BA
+2026-08-31,Centro,P0011,0,3.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,24100.0,33800.0,Mayorista Animalia
+2026-08-31,Centro,P0012,7,3.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,11800.0,22200.0,Veterinaria Central
+2026-08-31,Centro,P0013,8,3.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,,56400.0,EcoPet Distribuciones
+2026-08-31,Centro,P0014,2,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,32000.0,46800.0,NutriPet Sur
+2026-08-31,Centro,P0015,4,3.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,24500.0,38800.0,Accesorios Huella
+2026-08-31,Centro,P0016,10,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,52700.0,67800.0,Distribuidora Patitas
+2026-08-31,Centro,P0017,1,3.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,23600.0,32400.0,Mundo Mascota
+2026-08-31,Centro,P0018,14,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,7200.0,13300.0,Pet Supply BA
+2026-08-31,Centro,P0019,3,2.0,2026-08-31,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,7700.0,12900.0,Mayorista Animalia
+2026-08-31,Centro,P0020,2,3.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,37200.0,48400.0,Veterinaria Central
+2026-08-31,Centro,P0021,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,28300.0,49700.0,EcoPet Distribuciones
+2026-08-31,Centro,P0022,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,4500.0,6500.0,NutriPet Sur
+2026-08-31,Centro,P0023,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,54578.0,53400.0,Accesorios Huella
+2026-08-31,Centro,P0024,2,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,11200.0,18300.0,Distribuidora Patitas
+2026-08-31,Centro,P0025,8,3.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21600.0,32700.0,Mundo Mascota
+2026-08-31,Centro,P0026,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,8000.0,13400.0,Pet Supply BA
+2026-08-31,Centro,P0027,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,11900.0,21500.0,Mayorista Animalia
+2026-08-31,Centro,P0028,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,23700.0,31900.0,Veterinaria Central
+2026-08-31,Centro,P0029,4,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,22400.0,40900.0,EcoPet Distribuciones
+2026-08-31,Centro,P0030,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,16700.0,21700.0,NutriPet Sur
+2026-08-31,Centro,P0031,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,20800.0,34700.0,Accesorios Huella
+2026-08-31,Centro,P0032,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18800.0,29400.0,
+2026-08-31,Centro,P0033,2,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,34900.0,49800.0,Mundo Mascota
+2026-08-31,Centro,P0035,2,3.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4800.0,8700.0,Mayorista Animalia
+2026-08-31,Centro,P0036,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,29700.0,48500.0,Veterinaria Central
+2026-08-31,Centro,P0037,18,3.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,31800.0,50200.0,EcoPet Distribuciones
+2026-08-31,Centro,P0038,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,7700.0,11900.0,NutriPet Sur
+2026-08-31,Centro,P0039,3,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,40600.0,65600.0,Accesorios Huella
+2026-08-31,Centro,P0040,7,3.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,11400.0,20500.0,Distribuidora Patitas
+2026-08-31,Centro,P0041,5,3.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,35000.0,48200.0,Mundo Mascota
+2026-08-31,Centro,P0042,1,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,22200.0,34400.0,Pet Supply BA
+2026-08-31,Centro,P0043,8,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,25000.0,38300.0,Mayorista Animalia
+2026-08-31,Centro,P0044,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,14400.0,18600.0,Veterinaria Central
+2026-08-31,Centro,P0045,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,39700.0,59100.0,EcoPet Distribuciones
+2026-08-31,Centro,P0046,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,29500.0,39500.0,NutriPet Sur
+2026-08-31,Centro,P0047,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,19200.0,36000.0,Accesorios Huella
+2026-08-31,Centro,P0048,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,37600.0,51200.0,Distribuidora Patitas
+2026-08-31,Centro,P0049,9,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,45700.0,63900.0,Mundo Mascota
+2026-08-31,Centro,P0050,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,26100.0,35000.0,Pet Supply BA
+2026-08-31,Centro,P0051,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,15500.0,23600.0,Mayorista Animalia
+2026-08-31,Centro,P0052,2,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,3100.0,4500.0,Veterinaria Central
+2026-08-31,Centro,P0053,1,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,9900.0,17800.0,EcoPet Distribuciones
+2026-08-31,Centro,P0054,1,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,16100.0,21900.0,NutriPet Sur
+2026-08-31,Centro,P0055,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21200.0,35500.0,Accesorios Huella
+2026-08-31,Centro,P0056,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,41200.0,65500.0,Distribuidora Patitas
+2026-08-31,Centro,P0057,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,15900.0,21400.0,Mundo Mascota
+2026-08-31,Centro,P0058,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,10100.0,16400.0,Pet Supply BA
+2026-08-31,Centro,P0059,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,33300.0,44700.0,Mayorista Animalia
+2026-08-31,Centro,P0060,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,33500.0,58000.0,Veterinaria Central
+2026-08-31,Centro,P0061,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,26200.0,47400.0,EcoPet Distribuciones
+2026-08-31,Centro,P0062,6,3.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18500.0,28400.0,NutriPet Sur
+2026-08-31,Centro,P0063,1,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,9200.0,14100.0,Accesorios Huella
+2026-08-31,Centro,P0064,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,,33100.0,Distribuidora Patitas
+2026-08-31,Centro,P0065,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4900.0,6600.0,Mundo Mascota
+2026-08-31,Centro,P0066,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,50100.0,67600.0,Pet Supply BA
+2026-08-31,Centro,P0067,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,46000.0,60500.0,Mayorista Animalia
+2026-08-31,Centro,P0068,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,19900.0,31600.0,Veterinaria Central
+2026-08-31,Centro,P0069,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,37400.0,64700.0,EcoPet Distribuciones
+2026-08-31,Centro,P0070,11,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,34300.0,60400.0,NutriPet Sur
+2026-08-31,Centro,P0071,12,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,6200.0,8100.0,Accesorios Huella
+2026-08-31,Centro,P0072,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,3600.0,6100.0,Distribuidora Patitas
+2026-08-31,Centro,P0073,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,34500.0,58200.0,Mundo Mascota
+2026-08-31,Centro,P0074,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,21500.0,29100.0,Pet Supply BA
+2026-08-31,Centro,P0075,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,29900.0,42600.0,Mayorista Animalia
+2026-08-31,Centro,P0076,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,30600.0,52200.0,Veterinaria Central
+2026-08-31,Centro,P0077,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,41000.0,60400.0,EcoPet Distribuciones
+2026-08-31,Centro,P0079,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,46326.0,44900.0,Accesorios Huella
+2026-08-31,Centro,P0080,1,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,14500.0,24100.0,Distribuidora Patitas
+2026-08-31,Centro,P0081,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Tiras Perro 150 g,Snacks,Perro,Pedigree,6300.0,9600.0,Mundo Mascota
+2026-08-31,Centro,P0082,2,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Gato 500 g,Snacks,Gato,König,3100.0,4500.0,Pet Supply BA
+2026-08-31,Centro,P0083,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Perro 150 g,Snacks,Perro,Excellent,2900.0,4800.0,Mayorista Animalia
+2026-08-31,Centro,P0084,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Gato 500 g,Snacks,Gato,Balanced,3300.0,4900.0,Veterinaria Central
+2026-08-31,Centro,P0085,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Perro 150 g,Snacks,Perro,Catit,1900.0,3400.0,EcoPet Distribuciones
+2026-08-31,Centro,P0086,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Gato 500 g,Snacks,Gato,Pedigree,6400.0,9700.0,NutriPet Sur
+2026-08-31,Centro,P0087,3,2.0,31/08/2026,False,False,False,False,False,,True,König Tiras Perro 150 g,Snacks,Perro,König,3000.0,4500.0,Accesorios Huella
+2026-08-31,Centro,P0088,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Gato 500 g,Snacks,Gato,Excellent,6600.0,10800.0,Distribuidora Patitas
+2026-08-31,Centro,P0089,5,2.0,2026-08-31,False,False,False,False,False,,True,Balanced Mix entrenamiento Perro 150 g,Snacks,Perro,Balanced,4100.0,6100.0,Mundo Mascota
+2026-08-31,Centro,P0090,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Gato 500 g,Snacks,Gato,Catit,5500.0,9600.0,Pet Supply BA
+2026-08-31,Centro,P0091,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Galletas Perro 150 g,Snacks,Perro,Pedigree,6100.0,8400.0,Mayorista Animalia
+2026-08-31,Centro,P0092,5,2.0,31/08/2026,False,False,False,False,False,,True,König Mix entrenamiento Gato 500 g,Snacks,Gato,König,2000.0,3200.0,Veterinaria Central
+2026-08-31,Centro,P0093,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Tiras Perro 150 g,Snacks,Perro,Excellent,7100.0,12100.0,EcoPet Distribuciones
+2026-08-31,Centro,P0094,8,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Galletas Gato 500 g,Snacks,Gato,Balanced,2100.0,3000.0,NutriPet Sur
+2026-08-31,Centro,P0095,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Mix entrenamiento Perro 150 g,Snacks,Perro,Catit,4500.0,7900.0,Accesorios Huella
+2026-08-31,Centro,P0096,11,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Tiras Gato 500 g,Accesorios,Gato,Pedigree,6700.0,9100.0,Distribuidora Patitas
+2026-08-31,Centro,P0097,3,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Perro 150 g,Snacks,Perro,König,6200.0,9700.0,Mundo Mascota
+2026-08-31,Centro,P0098,11,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Gato 500 g,Snacks,Gato,Excellent,3800.0,6900.0,Pet Supply BA
+2026-08-31,Centro,P0099,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Perro 150 g,Snacks,Perro,Balanced,3800.0,7000.0,Mayorista Animalia
+2026-08-31,Centro,P0100,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Gato 500 g,Snacks,Gato,Catit,3600.0,6400.0,Veterinaria Central
+2026-08-31,Centro,P0101,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Perro 150 g,Snacks,Perro,Pedigree,3400.0,5100.0,EcoPet Distribuciones
+2026-08-31,Centro,P0103,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Perro 150 g,Snacks,Perro,Excellent,1900.0,2700.0,Accesorios Huella
+2026-08-31,Centro,P0104,0,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Mix entrenamiento Gato 500 g,Snacks,Gato,Balanced,4600.0,6200.0,Distribuidora Patitas
+2026-08-31,Centro,P0105,7,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Perro 150 g,Snacks,Perro,Catit,2500.0,3300.0,Mundo Mascota
+2026-08-31,Centro,P0106,1,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,2900.0,4700.0,Pet Supply BA
+2026-08-31,Centro,P0107,4,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,5400.0,9600.0,Mayorista Animalia
+2026-08-31,Centro,P0108,1,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,2100.0,3600.0,Veterinaria Central
+2026-08-31,Centro,P0109,9,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,13400.0,17500.0,EcoPet Distribuciones
+2026-08-31,Centro,P0110,4,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,12300.0,16000.0,
+2026-08-31,Centro,P0111,2,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,2100.0,3700.0,Accesorios Huella
+2026-08-31,Centro,P0112,3,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7800.0,13900.0,Distribuidora Patitas
+2026-08-31,Centro,P0113,4,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,10200.0,14500.0,Mundo Mascota
+2026-08-31,Centro,P0114,1,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,6200.0,8400.0,Pet Supply BA
+2026-08-31,Centro,P0115,0,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,11100.0,16600.0,Mayorista Animalia
+2026-08-31,Centro,P0116,3,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,2600.0,3700.0,Veterinaria Central
+2026-08-31,Centro,P0117,1,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,5500.0,8800.0,EcoPet Distribuciones
+2026-08-31,Centro,P0118,3,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,8400.0,11300.0,NutriPet Sur
+2026-08-31,Centro,P0119,5,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,4700.0,6900.0,Accesorios Huella
+2026-08-31,Centro,P0121,0,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,8800.0,16400.0,Mundo Mascota
+2026-08-31,Centro,P0122,4,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,7900.0,11400.0,Pet Supply BA
+2026-08-31,Centro,P0123,14,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,12500.0,18800.0,Mayorista Animalia
+2026-08-31,Centro,P0124,1,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,3000.0,4000.0,Veterinaria Central
+2026-08-31,Centro,P0125,5,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,4200.0,5600.0,EcoPet Distribuciones
+2026-08-31,Centro,P0126,2,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,14200.0,21600.0,NutriPet Sur
+2026-08-31,Centro,P0127,4,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7400.0,13000.0,Accesorios Huella
+2026-08-31,Centro,P0128,3,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,8200.0,13200.0,Distribuidora Patitas
+2026-08-31,Centro,P0129,12,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,3900.0,5300.0,Mundo Mascota
+2026-08-31,Centro,P0130,1,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,8000.0,10400.0,Pet Supply BA
+2026-08-31,Centro,P0131,1,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,8200.0,12700.0,Mayorista Animalia
+2026-08-31,Centro,P0132,1,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,12200.0,18500.0,Veterinaria Central
+2026-08-31,Centro,P0133,4,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,4730.0,3600.0,EcoPet Distribuciones
+2026-08-31,Centro,P0134,4,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,3100.0,4100.0,NutriPet Sur
+2026-08-31,Centro,P0135,11,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Shampoo General 250 ml,Higiene,General,Kongo,3700.0,4900.0,Accesorios Huella
+2026-08-31,Centro,P0136,5,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,40000.0,69300.0,Distribuidora Patitas
+2026-08-31,Centro,P0137,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,30800.0,46800.0,Mundo Mascota
+2026-08-31,Centro,P0138,3,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2900.0,5100.0,Pet Supply BA
+2026-08-31,Centro,P0139,8,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,17300.0,31500.0,Mayorista Animalia
+2026-08-31,Centro,P0140,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,51300.0,67100.0,Veterinaria Central
+2026-08-31,Centro,P0141,14,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,34200.0,61500.0,EcoPet Distribuciones
+2026-08-31,Centro,P0142,4,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,42700.0,61400.0,NutriPet Sur
+2026-08-31,Centro,P0143,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,45800.0,84400.0,Accesorios Huella
+2026-08-31,Centro,P0144,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Higiene,General,Osspret,27700.0,36900.0,Distribuidora Patitas
+2026-08-31,Centro,P0145,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,30200.0,57000.0,Mundo Mascota
+2026-08-31,Centro,P0146,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Gato S,Accesorios,Gato,Nutribon,24800.0,36800.0,Pet Supply BA
+2026-08-31,Centro,P0147,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete General M,Accesorios,General,Royal Canin,35200.0,52900.0,Mayorista Animalia
+2026-08-31,Centro,P0148,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Perro L,Accesorios,Perro,Whiskas,27700.0,41600.0,Veterinaria Central
+2026-08-31,Centro,P0149,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Gato XL,Accesorios,Gato,Osspret,38400.0,64200.0,EcoPet Distribuciones
+2026-08-31,Centro,P0150,4,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa General XS,Accesorios,General,Vitalcan,22500.0,35400.0,NutriPet Sur
+2026-08-31,Centro,P0151,4,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Perro S,Accesorios,Perro,Nutribon,45700.0,82200.0,Accesorios Huella
+2026-08-31,Centro,P0152,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Gato M,Accesorios,Gato,Royal Canin,36500.0,55900.0,Distribuidora Patitas
+2026-08-31,Centro,P0153,9,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete General L,Accesorios,General,Whiskas,24600.0,36300.0,Mundo Mascota
+2026-08-31,Centro,P0154,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Perro XL,Accesorios,Perro,Osspret,2700.0,5000.0,Pet Supply BA
+2026-08-31,Centro,P0155,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Gato XS,Accesorios,Gato,Vitalcan,,36600.0,Mayorista Animalia
+2026-08-31,Centro,P0156,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa General S,Accesorios,General,Nutribon,32500.0,56100.0,Veterinaria Central
+2026-08-31,Centro,P0157,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Perro M,Accesorios,Perro,Royal Canin,21100.0,33900.0,EcoPet Distribuciones
+2026-08-31,Centro,P0158,1,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Gato L,Accesorios,Gato,Whiskas,49900.0,73000.0,NutriPet Sur
+2026-08-31,Centro,P0159,3,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete General XL,Accesorios,General,Osspret,47800.0,62000.0,Accesorios Huella
+2026-08-31,Centro,P0160,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Perro XS,Accesorios,Perro,Vitalcan,33500.0,50500.0,Distribuidora Patitas
+2026-08-31,Centro,P0161,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Gato S,Accesorios,Gato,Nutribon,38700.0,57700.0,Mundo Mascota
+2026-08-31,Centro,P0162,13,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa General M,Accesorios,General,Royal Canin,25400.0,35200.0,Pet Supply BA
+2026-08-31,Centro,P0163,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Perro L,Accesorios,Perro,Whiskas,40600.0,65300.0,Mayorista Animalia
+2026-08-31,Centro,P0164,4,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Gato XL,Accesorios,Gato,Osspret,13500.0,17600.0,Veterinaria Central
+2026-08-31,Centro,P0165,1,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete General XS,Accesorios,General,Vitalcan,46900.0,81000.0,EcoPet Distribuciones
+2026-08-31,Centro,P0166,0,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,26400.0,35100.0,NutriPet Sur
+2026-08-31,Centro,P0168,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2200.0,3300.0,Distribuidora Patitas
+2026-08-31,Centro,P0169,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,34600.0,56200.0,Mundo Mascota
+2026-08-31,Centro,P0170,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,10200.0,19000.0,Pet Supply BA
+2026-08-31,Centro,P0171,7,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,33700.0,51800.0,Mayorista Animalia
+2026-08-31,Centro,P0172,0,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,15100.0,19500.0,Veterinaria Central
+2026-08-31,Centro,P0173,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,13100.0,19800.0,EcoPet Distribuciones
+2026-08-31,Centro,P0174,4,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Accesorios,General,Osspret,41000.0,77000.0,NutriPet Sur
+2026-08-31,Centro,P0175,4,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,35800.0,51600.0,Accesorios Huella
+2026-08-31,Centro,P0176,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Pipeta Perro Mediano,Salud,Perro,Nutribon,10300.0,13400.0,Distribuidora Patitas
+2026-08-31,Centro,P0177,4,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Gato Grande,Salud,Gato,Royal Canin,14400.0,20000.0,Mundo Mascota
+2026-08-31,Centro,P0178,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Vitaminas Perro 30 u.,Salud,Perro,Whiskas,23100.0,36000.0,Pet Supply BA
+2026-08-31,Centro,P0179,9,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Gato 60 u.,Salud,Gato,Osspret,19200.0,25100.0,Mayorista Animalia
+2026-08-31,Centro,P0180,4,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Perro Pequeño,Salud,Perro,Vitalcan,28800.0,37800.0,Veterinaria Central
+2026-08-31,Centro,P0181,5,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Gato Mediano,Salud,Gato,Nutribon,19500.0,30500.0,EcoPet Distribuciones
+2026-08-31,Centro,P0182,4,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Perro Grande,Salud,Perro,Royal Canin,25400.0,36300.0,NutriPet Sur
+2026-08-31,Centro,P0183,3,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Gato 30 u.,Salud,Gato,Whiskas,22000.0,37000.0,
+2026-08-31,Centro,P0184,12,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Perro 60 u.,Salud,Perro,Osspret,26100.0,37100.0,Distribuidora Patitas
+2026-08-31,Centro,P0185,8,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Gato Pequeño,Salud,Gato,Vitalcan,14100.0,19600.0,Mundo Mascota
+2026-08-31,Centro,P0186,4,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Antipulgas Perro Mediano,Salud,Perro,Nutribon,5800.0,9500.0,Pet Supply BA
+2026-08-31,Centro,P0187,4,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Vitaminas Gato Grande,Salud,Gato,Royal Canin,14000.0,21500.0,Mayorista Animalia
+2026-08-31,Centro,P0188,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Pipeta Perro 30 u.,Salud,Perro,Whiskas,9300.0,14000.0,Veterinaria Central
+2026-08-31,Centro,P0189,1,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Antipulgas Gato 60 u.,Salud,Gato,Osspret,,7100.0,EcoPet Distribuciones
+2026-08-31,Centro,P0190,1,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Vitaminas Perro Pequeño,Salud,Perro,Vitalcan,8400.0,14700.0,NutriPet Sur
+2026-08-31,Centro,P0191,0,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Pipeta Gato Mediano,Salud,Gato,Nutribon,6700.0,11200.0,Accesorios Huella
+2026-08-31,Centro,P0192,0,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Perro Grande,Salud,Perro,Royal Canin,16400.0,24700.0,Distribuidora Patitas
+2026-08-31,Centro,P0193,1,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Vitaminas Gato 30 u.,Salud,Gato,Whiskas,20300.0,27900.0,Mundo Mascota
+2026-08-31,Centro,P0194,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Perro 60 u.,Salud,Perro,Osspret,11400.0,20400.0,Pet Supply BA
+2026-08-31,Centro,P0195,0,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Gato Pequeño,Salud,Gato,Vitalcan,21700.0,29100.0,Mayorista Animalia
+2026-08-31,Centro,P0196,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Perro Mediano,Salud,Perro,Nutribon,15400.0,25000.0,Veterinaria Central
+2026-08-31,Centro,P0197,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Gato Grande,Salud,Gato,Royal Canin,5600.0,7300.0,EcoPet Distribuciones
+2026-08-31,Centro,P0198,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Perro 30 u.,Salud,Perro,Whiskas,6600.0,9400.0,NutriPet Sur
+2026-08-31,Centro,P0199,11,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Gato 60 u.,Salud,Gato,Osspret,16100.0,21500.0,Accesorios Huella
+2026-08-31,Centro,P0200,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Perro Pequeño,Salud,Perro,Vitalcan,6700.0,12500.0,Distribuidora Patitas
+2026-08-31,City Bell,P0001,38,8.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,15300.0,23900.0,Mundo Mascota
+2026-08-31,City Bell,P0002,4,4.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,4500.0,7400.0,Pet Supply BA
+2026-08-31,City Bell,P0003,10,4.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,13800.0,25300.0,Mayorista Animalia
+2026-08-31,City Bell,P0004,8,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,14100.0,26300.0,Veterinaria Central
+2026-08-31,City Bell,P0005,8,3.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,13600.0,22300.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0006,5,3.0,2026-08-31,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,30200.0,50600.0,NutriPet Sur
+2026-08-31,City Bell,P0007,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,11900.0,19400.0,Accesorios Huella
+2026-08-31,City Bell,P0008,3,3.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,31000.0,46000.0,Distribuidora Patitas
+2026-08-31,City Bell,P0009,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,6600.0,9100.0,Mundo Mascota
+2026-08-31,City Bell,P0010,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,3100.0,4600.0,Pet Supply BA
+2026-08-31,City Bell,P0011,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,24100.0,33800.0,Mayorista Animalia
+2026-08-31,City Bell,P0012,13,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,11800.0,22200.0,Veterinaria Central
+2026-08-31,City Bell,P0013,9,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,,56400.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0014,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,32000.0,46800.0,NutriPet Sur
+2026-08-31,City Bell,P0015,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,24500.0,38800.0,Accesorios Huella
+2026-08-31,City Bell,P0016,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,52700.0,67800.0,Distribuidora Patitas
+2026-08-31,City Bell,P0017,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,23600.0,32400.0,Mundo Mascota
+2026-08-31,City Bell,P0018,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,7200.0,13300.0,Pet Supply BA
+2026-08-31,City Bell,P0019,6,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,7700.0,12900.0,Mayorista Animalia
+2026-08-31,City Bell,P0020,1,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,37200.0,48400.0,Veterinaria Central
+2026-08-31,City Bell,P0021,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,28300.0,49700.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0022,14,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,4500.0,6500.0,NutriPet Sur
+2026-08-31,City Bell,P0023,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,54578.0,53400.0,Accesorios Huella
+2026-08-31,City Bell,P0024,0,3.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,11200.0,18300.0,Distribuidora Patitas
+2026-08-31,City Bell,P0025,7,3.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21600.0,32700.0,Mundo Mascota
+2026-08-31,City Bell,P0026,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,8000.0,13400.0,Pet Supply BA
+2026-08-31,City Bell,P0027,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,11900.0,21500.0,Mayorista Animalia
+2026-08-31,City Bell,P0028,2,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,23700.0,31900.0,Veterinaria Central
+2026-08-31,City Bell,P0029,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,22400.0,40900.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0030,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,16700.0,21700.0,NutriPet Sur
+2026-08-31,City Bell,P0031,0,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,20800.0,34700.0,Accesorios Huella
+2026-08-31,City Bell,P0032,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18800.0,29400.0,
+2026-08-31,City Bell,P0033,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,34900.0,49800.0,Mundo Mascota
+2026-08-31,City Bell,P0034,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,32000.0,49600.0,Pet Supply BA
+2026-08-31,City Bell,P0035,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4800.0,8700.0,Mayorista Animalia
+2026-08-31,City Bell,P0036,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,29700.0,48500.0,Veterinaria Central
+2026-08-31,City Bell,P0037,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,31800.0,50200.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0038,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,7700.0,11900.0,NutriPet Sur
+2026-08-31,City Bell,P0039,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,40600.0,65600.0,Accesorios Huella
+2026-08-31,City Bell,P0040,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,11400.0,20500.0,Distribuidora Patitas
+2026-08-31,City Bell,P0041,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,35000.0,48200.0,Mundo Mascota
+2026-08-31,City Bell,P0042,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,22200.0,34400.0,Pet Supply BA
+2026-08-31,City Bell,P0043,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,25000.0,38300.0,Mayorista Animalia
+2026-08-31,City Bell,P0044,0,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,14400.0,18600.0,Veterinaria Central
+2026-08-31,City Bell,P0045,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,39700.0,59100.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0046,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,29500.0,39500.0,NutriPet Sur
+2026-08-31,City Bell,P0047,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,19200.0,36000.0,Accesorios Huella
+2026-08-31,City Bell,P0048,14,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,37600.0,51200.0,Distribuidora Patitas
+2026-08-31,City Bell,P0050,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,26100.0,35000.0,Pet Supply BA
+2026-08-31,City Bell,P0051,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,15500.0,23600.0,Mayorista Animalia
+2026-08-31,City Bell,P0052,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,3100.0,4500.0,Veterinaria Central
+2026-08-31,City Bell,P0053,13,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,9900.0,17800.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0054,1,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,16100.0,21900.0,NutriPet Sur
+2026-08-31,City Bell,P0055,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21200.0,35500.0,Accesorios Huella
+2026-08-31,City Bell,P0056,11,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,41200.0,65500.0,Distribuidora Patitas
+2026-08-31,City Bell,P0057,2,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,15900.0,21400.0,Mundo Mascota
+2026-08-31,City Bell,P0058,2,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,10100.0,16400.0,Pet Supply BA
+2026-08-31,City Bell,P0059,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,33300.0,44700.0,Mayorista Animalia
+2026-08-31,City Bell,P0060,12,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,33500.0,58000.0,Veterinaria Central
+2026-08-31,City Bell,P0061,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,26200.0,47400.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0062,1,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18500.0,28400.0,NutriPet Sur
+2026-08-31,City Bell,P0063,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,9200.0,14100.0,Accesorios Huella
+2026-08-31,City Bell,P0064,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,,33100.0,Distribuidora Patitas
+2026-08-31,City Bell,P0065,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4900.0,6600.0,Mundo Mascota
+2026-08-31,City Bell,P0066,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,50100.0,67600.0,Pet Supply BA
+2026-08-31,City Bell,P0067,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,46000.0,60500.0,Mayorista Animalia
+2026-08-31,City Bell,P0068,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,19900.0,31600.0,Veterinaria Central
+2026-08-31,City Bell,P0069,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,37400.0,64700.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0070,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,34300.0,60400.0,NutriPet Sur
+2026-08-31,City Bell,P0071,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,6200.0,8100.0,Accesorios Huella
+2026-08-31,City Bell,P0072,9,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,3600.0,6100.0,Distribuidora Patitas
+2026-08-31,City Bell,P0073,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,34500.0,58200.0,Mundo Mascota
+2026-08-31,City Bell,P0074,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,21500.0,29100.0,Pet Supply BA
+2026-08-31,City Bell,P0075,1,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,29900.0,42600.0,Mayorista Animalia
+2026-08-31,City Bell,P0076,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,30600.0,52200.0,Veterinaria Central
+2026-08-31,City Bell,P0077,2,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,41000.0,60400.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0078,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,40400.0,53800.0,NutriPet Sur
+2026-08-31,City Bell,P0079,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,46326.0,44900.0,Accesorios Huella
+2026-08-31,City Bell,P0080,8,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,14500.0,24100.0,Distribuidora Patitas
+2026-08-31,City Bell,P0082,0,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Gato 500 g,Snacks,Gato,König,3100.0,4500.0,Pet Supply BA
+2026-08-31,City Bell,P0083,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Perro 150 g,Snacks,Perro,Excellent,2900.0,4800.0,Mayorista Animalia
+2026-08-31,City Bell,P0084,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Gato 500 g,Snacks,Gato,Balanced,3300.0,4900.0,Veterinaria Central
+2026-08-31,City Bell,P0085,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Perro 150 g,Snacks,Perro,Catit,1900.0,3400.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0086,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Gato 500 g,Snacks,Gato,Pedigree,6400.0,9700.0,NutriPet Sur
+2026-08-31,City Bell,P0087,2,2.0,31/08/2026,False,False,False,False,False,,True,König Tiras Perro 150 g,Snacks,Perro,König,3000.0,4500.0,Accesorios Huella
+2026-08-31,City Bell,P0088,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Gato 500 g,Snacks,Gato,Excellent,6600.0,10800.0,Distribuidora Patitas
+2026-08-31,City Bell,P0089,1,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Mix entrenamiento Perro 150 g,Snacks,Perro,Balanced,4100.0,6100.0,Mundo Mascota
+2026-08-31,City Bell,P0090,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Gato 500 g,Snacks,Gato,Catit,5500.0,9600.0,Pet Supply BA
+2026-08-31,City Bell,P0091,9,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Galletas Perro 150 g,Snacks,Perro,Pedigree,6100.0,8400.0,Mayorista Animalia
+2026-08-31,City Bell,P0092,2,2.0,31/08/2026,False,False,False,False,False,,True,König Mix entrenamiento Gato 500 g,Snacks,Gato,König,2000.0,3200.0,Veterinaria Central
+2026-08-31,City Bell,P0093,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Tiras Perro 150 g,Snacks,Perro,Excellent,7100.0,12100.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0094,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Galletas Gato 500 g,Snacks,Gato,Balanced,2100.0,3000.0,NutriPet Sur
+2026-08-31,City Bell,P0095,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Mix entrenamiento Perro 150 g,Snacks,Perro,Catit,4500.0,7900.0,Accesorios Huella
+2026-08-31,City Bell,P0096,11,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Tiras Gato 500 g,Accesorios,Gato,Pedigree,6700.0,9100.0,Distribuidora Patitas
+2026-08-31,City Bell,P0097,4,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Perro 150 g,Snacks,Perro,König,6200.0,9700.0,Mundo Mascota
+2026-08-31,City Bell,P0098,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Gato 500 g,Snacks,Gato,Excellent,3800.0,6900.0,Pet Supply BA
+2026-08-31,City Bell,P0099,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Perro 150 g,Snacks,Perro,Balanced,3800.0,7000.0,Mayorista Animalia
+2026-08-31,City Bell,P0100,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Gato 500 g,Snacks,Gato,Catit,3600.0,6400.0,Veterinaria Central
+2026-08-31,City Bell,P0101,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Perro 150 g,Snacks,Perro,Pedigree,3400.0,5100.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0102,2,2.0,31/08/2026,False,False,False,False,False,,True,König Tiras Gato 500 g,Snacks,Gato,König,2600.0,4600.0,NutriPet Sur
+2026-08-31,City Bell,P0103,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Perro 150 g,Snacks,Perro,Excellent,1900.0,2700.0,Accesorios Huella
+2026-08-31,City Bell,P0104,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Mix entrenamiento Gato 500 g,Snacks,Gato,Balanced,4600.0,6200.0,Distribuidora Patitas
+2026-08-31,City Bell,P0105,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Perro 150 g,Snacks,Perro,Catit,2500.0,3300.0,Mundo Mascota
+2026-08-31,City Bell,P0106,1,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,2900.0,4700.0,Pet Supply BA
+2026-08-31,City Bell,P0107,3,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,5400.0,9600.0,Mayorista Animalia
+2026-08-31,City Bell,P0108,5,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,2100.0,3600.0,Veterinaria Central
+2026-08-31,City Bell,P0109,4,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,13400.0,17500.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0110,2,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,12300.0,16000.0,
+2026-08-31,City Bell,P0111,2,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,2100.0,3700.0,Accesorios Huella
+2026-08-31,City Bell,P0112,5,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7800.0,13900.0,Distribuidora Patitas
+2026-08-31,City Bell,P0113,4,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,10200.0,14500.0,Mundo Mascota
+2026-08-31,City Bell,P0114,5,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,6200.0,8400.0,Pet Supply BA
+2026-08-31,City Bell,P0115,1,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,11100.0,16600.0,Mayorista Animalia
+2026-08-31,City Bell,P0116,1,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,2600.0,3700.0,Veterinaria Central
+2026-08-31,City Bell,P0117,1,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,5500.0,8800.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0118,2,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,8400.0,11300.0,NutriPet Sur
+2026-08-31,City Bell,P0119,2,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,4700.0,6900.0,Accesorios Huella
+2026-08-31,City Bell,P0121,3,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,8800.0,16400.0,Mundo Mascota
+2026-08-31,City Bell,P0122,4,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,7900.0,11400.0,Pet Supply BA
+2026-08-31,City Bell,P0123,0,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,12500.0,18800.0,Mayorista Animalia
+2026-08-31,City Bell,P0124,3,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,3000.0,4000.0,Veterinaria Central
+2026-08-31,City Bell,P0125,5,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,4200.0,5600.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0126,4,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,14200.0,21600.0,NutriPet Sur
+2026-08-31,City Bell,P0127,2,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7400.0,13000.0,Accesorios Huella
+2026-08-31,City Bell,P0128,9,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,8200.0,13200.0,Distribuidora Patitas
+2026-08-31,City Bell,P0129,1,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,3900.0,5300.0,Mundo Mascota
+2026-08-31,City Bell,P0130,1,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,8000.0,10400.0,Pet Supply BA
+2026-08-31,City Bell,P0131,11,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,8200.0,12700.0,Mayorista Animalia
+2026-08-31,City Bell,P0132,2,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,12200.0,18500.0,Veterinaria Central
+2026-08-31,City Bell,P0133,3,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,4730.0,3600.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0134,1,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,3100.0,4100.0,NutriPet Sur
+2026-08-31,City Bell,P0135,7,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Shampoo General 250 ml,Higiene,General,Kongo,3700.0,4900.0,Accesorios Huella
+2026-08-31,City Bell,P0136,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,40000.0,69300.0,Distribuidora Patitas
+2026-08-31,City Bell,P0137,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,30800.0,46800.0,Mundo Mascota
+2026-08-31,City Bell,P0138,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2900.0,5100.0,Pet Supply BA
+2026-08-31,City Bell,P0139,3,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,17300.0,31500.0,Mayorista Animalia
+2026-08-31,City Bell,P0140,7,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,51300.0,67100.0,Veterinaria Central
+2026-08-31,City Bell,P0141,11,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,34200.0,61500.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0142,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,42700.0,61400.0,NutriPet Sur
+2026-08-31,City Bell,P0143,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,45800.0,84400.0,Accesorios Huella
+2026-08-31,City Bell,P0144,0,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Higiene,General,Osspret,27700.0,36900.0,Distribuidora Patitas
+2026-08-31,City Bell,P0146,5,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Gato S,Accesorios,Gato,Nutribon,24800.0,36800.0,Pet Supply BA
+2026-08-31,City Bell,P0147,0,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete General M,Accesorios,General,Royal Canin,35200.0,52900.0,Mayorista Animalia
+2026-08-31,City Bell,P0148,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Perro L,Accesorios,Perro,Whiskas,27700.0,41600.0,Veterinaria Central
+2026-08-31,City Bell,P0149,4,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Gato XL,Accesorios,Gato,Osspret,38400.0,64200.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0150,11,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa General XS,Accesorios,General,Vitalcan,22500.0,35400.0,NutriPet Sur
+2026-08-31,City Bell,P0151,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Perro S,Accesorios,Perro,Nutribon,45700.0,82200.0,Accesorios Huella
+2026-08-31,City Bell,P0152,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Gato M,Accesorios,Gato,Royal Canin,36500.0,55900.0,Distribuidora Patitas
+2026-08-31,City Bell,P0153,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete General L,Accesorios,General,Whiskas,24600.0,36300.0,Mundo Mascota
+2026-08-31,City Bell,P0154,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Perro XL,Accesorios,Perro,Osspret,2700.0,5000.0,Pet Supply BA
+2026-08-31,City Bell,P0155,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Gato XS,Accesorios,Gato,Vitalcan,,36600.0,Mayorista Animalia
+2026-08-31,City Bell,P0156,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa General S,Accesorios,General,Nutribon,32500.0,56100.0,Veterinaria Central
+2026-08-31,City Bell,P0157,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Perro M,Accesorios,Perro,Royal Canin,21100.0,33900.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0158,3,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Gato L,Accesorios,Gato,Whiskas,49900.0,73000.0,NutriPet Sur
+2026-08-31,City Bell,P0159,7,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete General XL,Accesorios,General,Osspret,47800.0,62000.0,Accesorios Huella
+2026-08-31,City Bell,P0160,1,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Perro XS,Accesorios,Perro,Vitalcan,33500.0,50500.0,Distribuidora Patitas
+2026-08-31,City Bell,P0161,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Gato S,Accesorios,Gato,Nutribon,38700.0,57700.0,Mundo Mascota
+2026-08-31,City Bell,P0162,13,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa General M,Accesorios,General,Royal Canin,25400.0,35200.0,Pet Supply BA
+2026-08-31,City Bell,P0163,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Perro L,Accesorios,Perro,Whiskas,40600.0,65300.0,Mayorista Animalia
+2026-08-31,City Bell,P0164,12,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Gato XL,Accesorios,Gato,Osspret,13500.0,17600.0,Veterinaria Central
+2026-08-31,City Bell,P0165,4,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete General XS,Accesorios,General,Vitalcan,46900.0,81000.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0166,0,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,26400.0,35100.0,NutriPet Sur
+2026-08-31,City Bell,P0167,2,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,58495.0,56700.0,Accesorios Huella
+2026-08-31,City Bell,P0168,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2200.0,3300.0,Distribuidora Patitas
+2026-08-31,City Bell,P0169,12,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,34600.0,56200.0,Mundo Mascota
+2026-08-31,City Bell,P0170,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,10200.0,19000.0,Pet Supply BA
+2026-08-31,City Bell,P0171,5,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,33700.0,51800.0,Mayorista Animalia
+2026-08-31,City Bell,P0172,4,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,15100.0,19500.0,Veterinaria Central
+2026-08-31,City Bell,P0173,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,13100.0,19800.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0174,10,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Accesorios,General,Osspret,41000.0,77000.0,NutriPet Sur
+2026-08-31,City Bell,P0175,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,35800.0,51600.0,Accesorios Huella
+2026-08-31,City Bell,P0176,8,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Pipeta Perro Mediano,Salud,Perro,Nutribon,10300.0,13400.0,Distribuidora Patitas
+2026-08-31,City Bell,P0177,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Gato Grande,Salud,Gato,Royal Canin,14400.0,20000.0,Mundo Mascota
+2026-08-31,City Bell,P0179,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Gato 60 u.,Salud,Gato,Osspret,19200.0,25100.0,Mayorista Animalia
+2026-08-31,City Bell,P0180,10,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Perro Pequeño,Salud,Perro,Vitalcan,28800.0,37800.0,Veterinaria Central
+2026-08-31,City Bell,P0181,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Gato Mediano,Salud,Gato,Nutribon,19500.0,30500.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0182,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Perro Grande,Salud,Perro,Royal Canin,25400.0,36300.0,NutriPet Sur
+2026-08-31,City Bell,P0183,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Gato 30 u.,Salud,Gato,Whiskas,22000.0,37000.0,
+2026-08-31,City Bell,P0184,10,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Perro 60 u.,Salud,Perro,Osspret,26100.0,37100.0,Distribuidora Patitas
+2026-08-31,City Bell,P0185,0,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Gato Pequeño,Salud,Gato,Vitalcan,14100.0,19600.0,Mundo Mascota
+2026-08-31,City Bell,P0186,4,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Antipulgas Perro Mediano,Salud,Perro,Nutribon,5800.0,9500.0,Pet Supply BA
+2026-08-31,City Bell,P0187,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Vitaminas Gato Grande,Salud,Gato,Royal Canin,14000.0,21500.0,Mayorista Animalia
+2026-08-31,City Bell,P0188,9,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Pipeta Perro 30 u.,Salud,Perro,Whiskas,9300.0,14000.0,Veterinaria Central
+2026-08-31,City Bell,P0189,0,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Antipulgas Gato 60 u.,Salud,Gato,Osspret,,7100.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0190,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Vitaminas Perro Pequeño,Salud,Perro,Vitalcan,8400.0,14700.0,NutriPet Sur
+2026-08-31,City Bell,P0191,2,2.0,2026-08-31,False,False,False,False,False,,True,Nutribon Pipeta Gato Mediano,Salud,Gato,Nutribon,6700.0,11200.0,Accesorios Huella
+2026-08-31,City Bell,P0192,8,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Perro Grande,Salud,Perro,Royal Canin,16400.0,24700.0,Distribuidora Patitas
+2026-08-31,City Bell,P0193,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Vitaminas Gato 30 u.,Salud,Gato,Whiskas,20300.0,27900.0,Mundo Mascota
+2026-08-31,City Bell,P0194,8,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Perro 60 u.,Salud,Perro,Osspret,11400.0,20400.0,Pet Supply BA
+2026-08-31,City Bell,P0195,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Gato Pequeño,Salud,Gato,Vitalcan,21700.0,29100.0,Mayorista Animalia
+2026-08-31,City Bell,P0196,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Perro Mediano,Salud,Perro,Nutribon,15400.0,25000.0,Veterinaria Central
+2026-08-31,City Bell,P0197,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Gato Grande,Salud,Gato,Royal Canin,5600.0,7300.0,EcoPet Distribuciones
+2026-08-31,City Bell,P0198,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Perro 30 u.,Salud,Perro,Whiskas,6600.0,9400.0,NutriPet Sur
+2026-08-31,City Bell,P0199,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Gato 60 u.,Salud,Gato,Osspret,16100.0,21500.0,Accesorios Huella
+2026-08-31,City Bell,P0200,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Perro Pequeño,Salud,Perro,Vitalcan,6700.0,12500.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0001,15,6.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,15300.0,23900.0,Mundo Mascota
+2026-08-31,Los Hornos,P0002,0,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,4500.0,7400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0003,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,13800.0,25300.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0004,0,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,14100.0,26300.0,Veterinaria Central
+2026-08-31,Los Hornos,P0005,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,13600.0,22300.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0006,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,30200.0,50600.0,NutriPet Sur
+2026-08-31,Los Hornos,P0007,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,11900.0,19400.0,Accesorios Huella
+2026-08-31,Los Hornos,P0008,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,31000.0,46000.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0009,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,6600.0,9100.0,Mundo Mascota
+2026-08-31,Los Hornos,P0010,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,3100.0,4600.0,Pet Supply BA
+2026-08-31,Los Hornos,P0011,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,24100.0,33800.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0012,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,11800.0,22200.0,Veterinaria Central
+2026-08-31,Los Hornos,P0013,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,,56400.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0014,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,32000.0,46800.0,NutriPet Sur
+2026-08-31,Los Hornos,P0015,1,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,24500.0,38800.0,Accesorios Huella
+2026-08-31,Los Hornos,P0016,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,52700.0,67800.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0017,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,23600.0,32400.0,Mundo Mascota
+2026-08-31,Los Hornos,P0018,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,7200.0,13300.0,Pet Supply BA
+2026-08-31,Los Hornos,P0019,1,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,7700.0,12900.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0020,2,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,37200.0,48400.0,Veterinaria Central
+2026-08-31,Los Hornos,P0021,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,28300.0,49700.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0022,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,4500.0,6500.0,NutriPet Sur
+2026-08-31,Los Hornos,P0023,2,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,54578.0,53400.0,Accesorios Huella
+2026-08-31,Los Hornos,P0024,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,11200.0,18300.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0025,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21600.0,32700.0,Mundo Mascota
+2026-08-31,Los Hornos,P0026,1,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,8000.0,13400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0027,2,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,11900.0,21500.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0028,1,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,23700.0,31900.0,Veterinaria Central
+2026-08-31,Los Hornos,P0029,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,22400.0,40900.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0030,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,16700.0,21700.0,NutriPet Sur
+2026-08-31,Los Hornos,P0031,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,20800.0,34700.0,Accesorios Huella
+2026-08-31,Los Hornos,P0032,11,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18800.0,29400.0,
+2026-08-31,Los Hornos,P0033,0,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,34900.0,49800.0,Mundo Mascota
+2026-08-31,Los Hornos,P0034,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,32000.0,49600.0,Pet Supply BA
+2026-08-31,Los Hornos,P0035,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4800.0,8700.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0036,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,29700.0,48500.0,Veterinaria Central
+2026-08-31,Los Hornos,P0037,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Perro 7,5 kg",Alimentos,Perro,König,31800.0,50200.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0038,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,7700.0,11900.0,NutriPet Sur
+2026-08-31,Los Hornos,P0039,5,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,40600.0,65600.0,Accesorios Huella
+2026-08-31,Los Hornos,P0040,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,11400.0,20500.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0041,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,35000.0,48200.0,Mundo Mascota
+2026-08-31,Los Hornos,P0042,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,22200.0,34400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0043,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,25000.0,38300.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0044,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,14400.0,18600.0,Veterinaria Central
+2026-08-31,Los Hornos,P0045,0,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,39700.0,59100.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0046,4,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,29500.0,39500.0,NutriPet Sur
+2026-08-31,Los Hornos,P0047,4,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,19200.0,36000.0,Accesorios Huella
+2026-08-31,Los Hornos,P0048,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,37600.0,51200.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0049,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,45700.0,63900.0,Mundo Mascota
+2026-08-31,Los Hornos,P0050,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,26100.0,35000.0,Pet Supply BA
+2026-08-31,Los Hornos,P0051,0,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Perro 3 kg,Alimentos,Perro,Pedigree,15500.0,23600.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0052,5,2.0,31/08/2026,False,False,False,False,False,,True,"König Cachorro Gato 7,5 kg",Alimentos,Gato,König,3100.0,4500.0,Veterinaria Central
+2026-08-31,Los Hornos,P0053,1,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Perro 10 kg,Alimentos,Perro,Excellent,9900.0,17800.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0054,1,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Gato 15 kg,Alimentos,Gato,Balanced,16100.0,21900.0,NutriPet Sur
+2026-08-31,Los Hornos,P0055,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Perro 1 kg,Alimentos,Perro,Catit,21200.0,35500.0,Accesorios Huella
+2026-08-31,Los Hornos,P0056,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Gato 3 kg,Alimentos,Gato,Pedigree,41200.0,65500.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0057,14,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Perro 7,5 kg",Alimentos,Perro,König,15900.0,21400.0,Mundo Mascota
+2026-08-31,Los Hornos,P0058,9,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Cachorro Gato 10 kg,Alimentos,Gato,Excellent,10100.0,16400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0059,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Perro 15 kg,Alimentos,Perro,Balanced,33300.0,44700.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0060,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Gato 1 kg,Alimentos,Gato,Catit,33500.0,58000.0,Veterinaria Central
+2026-08-31,Los Hornos,P0061,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Perro 3 kg,Alimentos,Perro,Pedigree,26200.0,47400.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0062,2,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Gato 7,5 kg",Alimentos,Gato,König,18500.0,28400.0,NutriPet Sur
+2026-08-31,Los Hornos,P0063,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Perro 10 kg,Alimentos,Perro,Excellent,9200.0,14100.0,Accesorios Huella
+2026-08-31,Los Hornos,P0064,0,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Gato 15 kg,Alimentos,Gato,Balanced,,33100.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0065,14,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Perro 1 kg,Alimentos,Perro,Catit,4900.0,6600.0,Mundo Mascota
+2026-08-31,Los Hornos,P0066,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Premium Gato 3 kg,Alimentos,Gato,Pedigree,50100.0,67600.0,Pet Supply BA
+2026-08-31,Los Hornos,P0068,3,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Piel sensible Gato 10 kg,Alimentos,Gato,Excellent,19900.0,31600.0,Veterinaria Central
+2026-08-31,Los Hornos,P0069,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Premium Perro 15 kg,Alimentos,Perro,Balanced,37400.0,64700.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0070,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Cachorro Gato 1 kg,Alimentos,Gato,Catit,34300.0,60400.0,NutriPet Sur
+2026-08-31,Los Hornos,P0071,3,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Piel sensible Perro 3 kg,Alimentos,Perro,Pedigree,6200.0,8100.0,Accesorios Huella
+2026-08-31,Los Hornos,P0072,3,2.0,31/08/2026,False,False,False,False,False,,True,"König Premium Gato 7,5 kg",Alimentos,Gato,König,3600.0,6100.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0073,4,2.0,2026-08-31,False,False,False,False,False,,True,Excellent Cachorro Perro 10 kg,Alimentos,Perro,Excellent,34500.0,58200.0,Mundo Mascota
+2026-08-31,Los Hornos,P0074,10,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Piel sensible Gato 15 kg,Alimentos,Gato,Balanced,21500.0,29100.0,Pet Supply BA
+2026-08-31,Los Hornos,P0075,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Premium Perro 1 kg,Alimentos,Perro,Catit,29900.0,42600.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0076,10,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Cachorro Gato 3 kg,Alimentos,Gato,Pedigree,30600.0,52200.0,Veterinaria Central
+2026-08-31,Los Hornos,P0077,0,2.0,31/08/2026,False,False,False,False,False,,True,"König Piel sensible Perro 7,5 kg",Alimentos,Perro,König,41000.0,60400.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0078,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Premium Gato 10 kg,Alimentos,Gato,Excellent,40400.0,53800.0,NutriPet Sur
+2026-08-31,Los Hornos,P0079,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Cachorro Perro 15 kg,Alimentos,Perro,Balanced,46326.0,44900.0,Accesorios Huella
+2026-08-31,Los Hornos,P0080,3,2.0,31/08/2026,False,False,False,False,False,,True,Catit Piel sensible Gato 1 kg,Alimentos,Gato,Catit,14500.0,24100.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0081,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Tiras Perro 150 g,Snacks,Perro,Pedigree,6300.0,9600.0,Mundo Mascota
+2026-08-31,Los Hornos,P0082,0,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Gato 500 g,Snacks,Gato,König,3100.0,4500.0,Pet Supply BA
+2026-08-31,Los Hornos,P0083,5,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Perro 150 g,Snacks,Perro,Excellent,2900.0,4800.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0084,3,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Gato 500 g,Snacks,Gato,Balanced,3300.0,4900.0,Veterinaria Central
+2026-08-31,Los Hornos,P0085,4,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Perro 150 g,Snacks,Perro,Catit,1900.0,3400.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0086,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Gato 500 g,Snacks,Gato,Pedigree,6400.0,9700.0,NutriPet Sur
+2026-08-31,Los Hornos,P0087,2,2.0,31/08/2026,False,False,False,False,False,,True,König Tiras Perro 150 g,Snacks,Perro,König,3000.0,4500.0,Accesorios Huella
+2026-08-31,Los Hornos,P0088,1,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Gato 500 g,Snacks,Gato,Excellent,6600.0,10800.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0089,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Mix entrenamiento Perro 150 g,Snacks,Perro,Balanced,4100.0,6100.0,Mundo Mascota
+2026-08-31,Los Hornos,P0090,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Gato 500 g,Snacks,Gato,Catit,5500.0,9600.0,Pet Supply BA
+2026-08-31,Los Hornos,P0091,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Galletas Perro 150 g,Snacks,Perro,Pedigree,6100.0,8400.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0092,3,2.0,31/08/2026,False,False,False,False,False,,True,König Mix entrenamiento Gato 500 g,Snacks,Gato,König,2000.0,3200.0,Veterinaria Central
+2026-08-31,Los Hornos,P0093,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Tiras Perro 150 g,Snacks,Perro,Excellent,7100.0,12100.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0094,2,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Galletas Gato 500 g,Snacks,Gato,Balanced,2100.0,3000.0,NutriPet Sur
+2026-08-31,Los Hornos,P0095,5,2.0,31/08/2026,False,False,False,False,False,,True,Catit Mix entrenamiento Perro 150 g,Snacks,Perro,Catit,4500.0,7900.0,Accesorios Huella
+2026-08-31,Los Hornos,P0096,5,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Tiras Gato 500 g,Accesorios,Gato,Pedigree,6700.0,9100.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0097,4,2.0,31/08/2026,False,False,False,False,False,,True,König Galletas Perro 150 g,Snacks,Perro,König,6200.0,9700.0,Mundo Mascota
+2026-08-31,Los Hornos,P0098,2,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Mix entrenamiento Gato 500 g,Snacks,Gato,Excellent,3800.0,6900.0,Pet Supply BA
+2026-08-31,Los Hornos,P0099,8,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Tiras Perro 150 g,Snacks,Perro,Balanced,3800.0,7000.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0100,1,2.0,31/08/2026,False,False,False,False,False,,True,Catit Galletas Gato 500 g,Snacks,Gato,Catit,3600.0,6400.0,Veterinaria Central
+2026-08-31,Los Hornos,P0101,2,2.0,31/08/2026,False,False,False,False,False,,True,Pedigree Mix entrenamiento Perro 150 g,Snacks,Perro,Pedigree,3400.0,5100.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0103,4,2.0,31/08/2026,False,False,False,False,False,,True,Excellent Galletas Perro 150 g,Snacks,Perro,Excellent,1900.0,2700.0,Accesorios Huella
+2026-08-31,Los Hornos,P0104,4,2.0,31/08/2026,False,False,False,False,False,,True,Balanced Mix entrenamiento Gato 500 g,Snacks,Gato,Balanced,4600.0,6200.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0105,0,2.0,31/08/2026,False,False,False,False,False,,True,Catit Tiras Perro 150 g,Snacks,Perro,Catit,2500.0,3300.0,Mundo Mascota
+2026-08-31,Los Hornos,P0106,5,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Cepillo dental Perro 500 ml,Higiene,Perro,Eukanuba,2900.0,4700.0,Pet Supply BA
+2026-08-31,Los Hornos,P0107,5,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,5400.0,9600.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0108,5,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,2100.0,3600.0,Veterinaria Central
+2026-08-31,Los Hornos,P0109,0,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,13400.0,17500.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0110,0,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,12300.0,16000.0,
+2026-08-31,Los Hornos,P0111,1,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,2100.0,3700.0,Accesorios Huella
+2026-08-31,Los Hornos,P0112,3,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7800.0,13900.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0113,1,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,10200.0,14500.0,Mundo Mascota
+2026-08-31,Los Hornos,P0114,5,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,6200.0,8400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0115,3,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,11100.0,16600.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0116,14,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,2600.0,3700.0,Veterinaria Central
+2026-08-31,Los Hornos,P0117,4,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,5500.0,8800.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0118,2,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,8400.0,11300.0,NutriPet Sur
+2026-08-31,Los Hornos,P0119,5,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,4700.0,6900.0,Accesorios Huella
+2026-08-31,Los Hornos,P0120,5,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Shampoo General 250 ml,Higiene,General,Kongo,,14500.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0122,5,2.0,31/08/2026,False,False,False,False,False,,True,Agility Arena sanitaria Gato 1 l,Higiene,Gato,Agility,7900.0,11400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0123,3,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Shampoo General 2 kg,Higiene,General,Dogit,12500.0,18800.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0124,2,2.0,31/08/2026,False,False,False,False,False,,True,Purina Cepillo dental Perro 4 kg,Higiene,Perro,Purina,3000.0,4000.0,Veterinaria Central
+2026-08-31,Los Hornos,P0125,5,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Arena sanitaria Gato 250 ml,Higiene,Gato,Kongo,4200.0,5600.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0126,8,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Shampoo General 500 ml,Higiene,General,Eukanuba,14200.0,21600.0,NutriPet Sur
+2026-08-31,Los Hornos,P0127,2,2.0,31/08/2026,False,False,False,False,False,,True,Agility Cepillo dental Perro 1 l,Higiene,Perro,Agility,7400.0,13000.0,Accesorios Huella
+2026-08-31,Los Hornos,P0128,12,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Arena sanitaria Gato 2 kg,Higiene,Gato,Dogit,8200.0,13200.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0129,3,2.0,31/08/2026,False,False,False,False,False,,True,Purina Shampoo General 4 kg,Higiene,General,Purina,3900.0,5300.0,Mundo Mascota
+2026-08-31,Los Hornos,P0130,5,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Cepillo dental Perro 250 ml,Higiene,Perro,Kongo,8000.0,10400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0131,0,2.0,31/08/2026,False,False,False,False,False,,True,Eukanuba Arena sanitaria Gato 500 ml,Higiene,Gato,Eukanuba,8200.0,12700.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0132,5,2.0,31/08/2026,False,False,False,False,False,,True,Agility Shampoo General 1 l,Higiene,General,Agility,12200.0,18500.0,Veterinaria Central
+2026-08-31,Los Hornos,P0133,3,2.0,31/08/2026,False,False,False,False,False,,True,Dogit Cepillo dental Perro 2 kg,Higiene,Perro,Dogit,4730.0,3600.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0134,5,2.0,31/08/2026,False,False,False,False,False,,True,Purina Arena sanitaria Gato 4 kg,Higiene,Gato,Purina,3100.0,4100.0,NutriPet Sur
+2026-08-31,Los Hornos,P0135,13,2.0,31/08/2026,False,False,False,False,False,,True,Kongo Shampoo General 250 ml,Higiene,General,Kongo,3700.0,4900.0,Accesorios Huella
+2026-08-31,Los Hornos,P0136,4,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,40000.0,69300.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0137,5,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,30800.0,46800.0,Mundo Mascota
+2026-08-31,Los Hornos,P0138,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2900.0,5100.0,Pet Supply BA
+2026-08-31,Los Hornos,P0139,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,17300.0,31500.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0140,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,51300.0,67100.0,Veterinaria Central
+2026-08-31,Los Hornos,P0141,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,34200.0,61500.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0142,2,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,42700.0,61400.0,NutriPet Sur
+2026-08-31,Los Hornos,P0143,0,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Gato L,Accesorios,Gato,Whiskas,45800.0,84400.0,Accesorios Huella
+2026-08-31,Los Hornos,P0144,12,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Higiene,General,Osspret,27700.0,36900.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0145,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,30200.0,57000.0,Mundo Mascota
+2026-08-31,Los Hornos,P0146,1,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Gato S,Accesorios,Gato,Nutribon,24800.0,36800.0,Pet Supply BA
+2026-08-31,Los Hornos,P0147,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete General M,Accesorios,General,Royal Canin,35200.0,52900.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0148,0,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Perro L,Accesorios,Perro,Whiskas,27700.0,41600.0,Veterinaria Central
+2026-08-31,Los Hornos,P0149,3,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Gato XL,Accesorios,Gato,Osspret,38400.0,64200.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0150,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa General XS,Accesorios,General,Vitalcan,22500.0,35400.0,NutriPet Sur
+2026-08-31,Los Hornos,P0151,1,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Perro S,Accesorios,Perro,Nutribon,45700.0,82200.0,Accesorios Huella
+2026-08-31,Los Hornos,P0152,8,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Gato M,Accesorios,Gato,Royal Canin,36500.0,55900.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0153,5,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete General L,Accesorios,General,Whiskas,24600.0,36300.0,Mundo Mascota
+2026-08-31,Los Hornos,P0154,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Perro XL,Accesorios,Perro,Osspret,2700.0,5000.0,Pet Supply BA
+2026-08-31,Los Hornos,P0155,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Gato XS,Accesorios,Gato,Vitalcan,,36600.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0156,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa General S,Accesorios,General,Nutribon,32500.0,56100.0,Veterinaria Central
+2026-08-31,Los Hornos,P0157,12,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Perro M,Accesorios,Perro,Royal Canin,21100.0,33900.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0158,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa Gato L,Accesorios,Gato,Whiskas,49900.0,73000.0,NutriPet Sur
+2026-08-31,Los Hornos,P0159,2,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete General XL,Accesorios,General,Osspret,47800.0,62000.0,Accesorios Huella
+2026-08-31,Los Hornos,P0160,5,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Perro XS,Accesorios,Perro,Vitalcan,33500.0,50500.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0161,2,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete Gato S,Accesorios,Gato,Nutribon,38700.0,57700.0,Mundo Mascota
+2026-08-31,Los Hornos,P0162,2,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa General M,Accesorios,General,Royal Canin,25400.0,35200.0,Pet Supply BA
+2026-08-31,Los Hornos,P0163,0,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Juguete Perro L,Accesorios,Perro,Whiskas,40600.0,65300.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0164,1,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa Gato XL,Accesorios,Gato,Osspret,13500.0,17600.0,Veterinaria Central
+2026-08-31,Los Hornos,P0165,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete General XS,Accesorios,General,Vitalcan,46900.0,81000.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0166,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Correa Perro S,Accesorios,Perro,Nutribon,26400.0,35100.0,NutriPet Sur
+2026-08-31,Los Hornos,P0167,2,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Juguete Gato M,Accesorios,Gato,Royal Canin,58495.0,56700.0,Accesorios Huella
+2026-08-31,Los Hornos,P0168,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Correa General L,Accesorios,General,Whiskas,2200.0,3300.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0169,3,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Juguete Perro XL,Accesorios,Perro,Osspret,34600.0,56200.0,Mundo Mascota
+2026-08-31,Los Hornos,P0170,10,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Correa Gato XS,Accesorios,Gato,Vitalcan,10200.0,19000.0,Pet Supply BA
+2026-08-31,Los Hornos,P0171,13,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Juguete General S,Accesorios,General,Nutribon,33700.0,51800.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0172,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Correa Perro M,Accesorios,Perro,Royal Canin,15100.0,19500.0,Veterinaria Central
+2026-08-31,Los Hornos,P0174,4,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Correa General XL,Accesorios,General,Osspret,41000.0,77000.0,NutriPet Sur
+2026-08-31,Los Hornos,P0175,4,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Juguete Perro XS,Accesorios,Perro,Vitalcan,35800.0,51600.0,Accesorios Huella
+2026-08-31,Los Hornos,P0176,12,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Pipeta Perro Mediano,Salud,Perro,Nutribon,10300.0,13400.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0177,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Gato Grande,Salud,Gato,Royal Canin,14400.0,20000.0,Mundo Mascota
+2026-08-31,Los Hornos,P0178,2,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Vitaminas Perro 30 u.,Salud,Perro,Whiskas,23100.0,36000.0,Pet Supply BA
+2026-08-31,Los Hornos,P0179,9,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Gato 60 u.,Salud,Gato,Osspret,19200.0,25100.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0180,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Perro Pequeño,Salud,Perro,Vitalcan,28800.0,37800.0,Veterinaria Central
+2026-08-31,Los Hornos,P0181,11,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Gato Mediano,Salud,Gato,Nutribon,19500.0,30500.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0182,12,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Perro Grande,Salud,Perro,Royal Canin,25400.0,36300.0,NutriPet Sur
+2026-08-31,Los Hornos,P0183,0,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Gato 30 u.,Salud,Gato,Whiskas,22000.0,37000.0,
+2026-08-31,Los Hornos,P0184,3,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Perro 60 u.,Salud,Perro,Osspret,26100.0,37100.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0185,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Gato Pequeño,Salud,Gato,Vitalcan,14100.0,19600.0,Mundo Mascota
+2026-08-31,Los Hornos,P0186,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Antipulgas Perro Mediano,Salud,Perro,Nutribon,5800.0,9500.0,Pet Supply BA
+2026-08-31,Los Hornos,P0187,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Vitaminas Gato Grande,Salud,Gato,Royal Canin,14000.0,21500.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0188,1,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Pipeta Perro 30 u.,Salud,Perro,Whiskas,9300.0,14000.0,Veterinaria Central
+2026-08-31,Los Hornos,P0189,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Antipulgas Gato 60 u.,Salud,Gato,Osspret,,7100.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0190,2,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Vitaminas Perro Pequeño,Salud,Perro,Vitalcan,8400.0,14700.0,NutriPet Sur
+2026-08-31,Los Hornos,P0192,1,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Antipulgas Perro Grande,Salud,Perro,Royal Canin,16400.0,24700.0,Distribuidora Patitas
+2026-08-31,Los Hornos,P0193,13,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Vitaminas Gato 30 u.,Salud,Gato,Whiskas,20300.0,27900.0,Mundo Mascota
+2026-08-31,Los Hornos,P0194,4,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Pipeta Perro 60 u.,Salud,Perro,Osspret,11400.0,20400.0,Pet Supply BA
+2026-08-31,Los Hornos,P0195,1,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Antipulgas Gato Pequeño,Salud,Gato,Vitalcan,21700.0,29100.0,Mayorista Animalia
+2026-08-31,Los Hornos,P0196,3,2.0,31/08/2026,False,False,False,False,False,,True,Nutribon Vitaminas Perro Mediano,Salud,Perro,Nutribon,15400.0,25000.0,Veterinaria Central
+2026-08-31,Los Hornos,P0197,3,2.0,31/08/2026,False,False,False,False,False,,True,Royal Canin Pipeta Gato Grande,Salud,Gato,Royal Canin,5600.0,7300.0,EcoPet Distribuciones
+2026-08-31,Los Hornos,P0198,4,2.0,31/08/2026,False,False,False,False,False,,True,Whiskas Antipulgas Perro 30 u.,Salud,Perro,Whiskas,6600.0,9400.0,NutriPet Sur
+2026-08-31,Los Hornos,P0199,5,2.0,31/08/2026,False,False,False,False,False,,True,Osspret Vitaminas Gato 60 u.,Salud,Gato,Osspret,16100.0,21500.0,Accesorios Huella
+2026-08-31,Los Hornos,P0200,3,2.0,31/08/2026,False,False,False,False,False,,True,Vitalcan Pipeta Perro Pequeño,Salud,Perro,Vitalcan,6700.0,12500.0,Distribuidora Patitas

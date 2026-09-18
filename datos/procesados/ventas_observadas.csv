@@ -1,0 +1,35 @@
+﻿id_linea_venta,id_venta,fecha,id_cliente,id_producto,cantidad,precio_unitario,descuento,sucursal,canal,medio_pago,fecha_original,fecha_invalida,fecha_fuera_rango,error_cantidad,cantidad_atipica,error_precio,error_descuento,requiere_revision,motivo_revision,producto_existe
+LV000046,V000020,2026-08-28,C1884,P0031,2,0,0.1,Ecommerce,Online,Mercado Pago,28/08/2026,False,False,False,False,True,False,True,Precio inválido,
+LV000778,V000302,,,P0097,3,10110,0.0,Centro,Local,Efectivo,31/02/2026,True,False,False,False,False,False,True,Fecha inválida,
+LV000889,V000342,2026-04-10,,P0017,1000,34130,0.0,Centro,Local,Efectivo,10/04/2026,False,False,False,True,False,False,True,Cantidad atípica,
+LV001210,V000468,2025-12-26,C0363,P0143,2,0,0.0,Ecommerce,Online,Crédito,26/12/2025,False,False,False,False,True,False,True,Precio inválido,
+LV003121,V001231,2025-01-17,C0518,P0102,1,0,0.0,Centro,Local,Crédito,17/01/2025,False,False,False,False,True,False,True,Precio inválido,
+LV004789,V001889,2025-02-13,C1147,P0065,2,0,0.0,Los Hornos,Local,Transferencia,13/02/2025,False,False,False,False,True,False,True,Precio inválido,
+LV005893,V002334,2026-06-05,C0422,P0152,1000,56410,0.0,City Bell,Local,Débito,05/06/2026,False,False,False,True,False,False,True,Cantidad atípica,
+LV006061,V002408,,C1688,P0118,1,10870,0.0,Ecommerce,Online,Crédito,fecha pendiente,True,False,False,False,False,False,True,Fecha inválida,
+LV006212,V002471,2025-01-10,C1095,P0063,1,0,0.0,Centro,Local,Transferencia,10/01/2025,False,False,False,False,True,False,True,Precio inválido,
+LV007881,V003151,2026-04-15,C1361,P0098,1,0,0.2,Centro,Local,Efectivo,15/04/2026,False,False,False,False,True,False,True,Precio inválido,
+LV009323,V003707,2025-11-20,C0146,P0007,1,0,0.0,City Bell,Local,Transferencia,20/11/2025,False,False,False,False,True,False,True,Precio inválido,
+LV011072,V004399,2025-04-03,C1662,P0146,1,0,0.0,Centro,Local,Crédito,03/04/2025,False,False,False,False,True,False,True,Precio inválido,
+LV012843,V005112,2026-05-13,C0447,P0196,1000,25620,0.0,Ecommerce,Online,Mercado Pago,13/05/2026,False,False,False,True,False,False,True,Cantidad atípica,
+LV012888,V005132,2026-01-08,,P0006,1,0,0.1,Centro,Local,Débito,08/01/2026,False,False,False,False,True,False,True,Precio inválido,
+LV014000,V005573,,C1724,P0017,2,33270,0.0,City Bell,Local,Débito,,True,False,False,False,False,False,True,Fecha inválida,
+LV014502,V005778,2025-04-08,C0588,P0124,1,0,0.0,Centro,Local,QR,08/04/2025,False,False,False,False,True,False,True,Precio inválido,
+LV016992,V006775,2026-06-25,C0740,P0006,2,0,0.0,Centro,Local,Transferencia,25/06/2026,False,False,False,False,True,False,True,Precio inválido,
+LV017772,V007080,2026-02-17,,P0042,1000,33560,0.0,Centro,Local,Transferencia,17/02/2026,False,False,False,True,False,False,True,Cantidad atípica,
+LV018771,V007487,2025-07-31,C0835,P0154,2,0,0.0,Centro,Local,QR,31/07/2025,False,False,False,False,True,False,True,Precio inválido,
+LV000211,V000082,2025-03-07,C1284,P9999,2,36960,0.05,Los Hornos,Local,Efectivo,07/03/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV001545,V000601,2025-09-18,C0118,P9999,2,7660,0.05,Centro,Local,Crédito,18/09/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV002922,V001151,2025-09-21,C1659,P9999,1,48910,0.0,Centro,Local,Crédito,21/09/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV004181,V001648,2026-06-19,C1812,P9999,2,34810,0.0,Centro,Local,Crédito,19/06/2026,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV005578,V002209,2025-10-16,C1072,P9999,1,20140,0.0,City Bell,Local,Transferencia,16/10/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV006867,V002741,2025-04-23,C0822,P9999,1,13940,0.0,Ecommerce,Online,Débito,23/04/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV008130,V003251,2025-03-26,C1179,P9999,2,60140,0.0,Los Hornos,Local,Crédito,26/03/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV009345,V003715,2026-08-08,C0158,P9999,1,24210,0.05,City Bell,Local,Efectivo,08/08/2026,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV010802,V004293,2026-03-20,C0368,P9999,1,22730,0.05,Los Hornos,Local,Débito,20/03/2026,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV012556,V004994,2026-03-06,C1961,P9999,1,34230,0.0,Ecommerce,Online,Transferencia,06/03/2026,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV014391,V005732,2025-04-09,,P9999,1,43840,0.0,City Bell,Local,Crédito,09/04/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV015883,V006344,2025-06-09,,P9999,1,10090,0.1,Ecommerce,Online,Transferencia,09/06/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV017662,V007037,2025-05-01,C1022,P9999,1,26390,0.0,Centro,Local,Efectivo,01/05/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV019223,V007664,2025-01-01,C0491,P9999,2,28940,0.1,Centro,Local,Transferencia,01/01/2025,False,False,False,False,False,False,False,Producto inexistente en el maestro,False
+LV019756,V007875,2026-08-24,C0884,P9999,2,18710,0.1,Centro,Local,Transferencia,24/08/2026,False,False,False,False,False,False,False,Producto inexistente en el maestro,False

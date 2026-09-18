@@ -1,0 +1,16 @@
+﻿fecha,sucursal,id_producto,stock_actual,stock_minimo,fecha_original,fecha_invalida,fecha_fuera_rango,stock_actual_invalido,stock_minimo_invalido,requiere_revision,motivo_revision,producto_existe
+2026-08-31,Centro,P0034,-1,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,Centro,P0078,3,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,Centro,P0120,-3,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,Centro,P0167,5,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,City Bell,P0049,-3,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,City Bell,P0081,2,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,City Bell,P0145,3,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,City Bell,P0178,-3,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,Los Hornos,P0067,-2,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,Los Hornos,P0102,4,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,Los Hornos,P0173,4,,31/08/2026,False,False,False,True,True,Stock mínimo inválido,
+2026-08-31,Los Hornos,P0191,-1,2.0,31/08/2026,False,False,True,False,True,Stock actual inválido,
+2026-08-31,Centro,P9999,3,2.0,31/08/2026,False,False,False,False,False,Producto inexistente en el maestro,False
+2026-08-31,City Bell,P9999,10,2.0,31/08/2026,False,False,False,False,False,Producto inexistente en el maestro,False
+2026-08-31,Los Hornos,P9999,2,2.0,31/08/2026,False,False,False,False,False,Producto inexistente en el maestro,False
